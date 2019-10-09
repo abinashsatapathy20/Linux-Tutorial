@@ -1,6 +1,7 @@
 # Java 程序员眼中的 Linux
 
-## 初衷(Original Intention)
+## 初衷(Original Intention) 
+
 
 - 整理下自己所学
 - 带动更多的人进入 Linux 世界，特别是做 Java 开发的人
